@@ -1,4 +1,4 @@
-
+//
 
 output "PrivateIP" {
   description = "Private IP of EC2 instance"
